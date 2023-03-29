@@ -4,10 +4,10 @@
 
 ## I'm a developer, learner, and teacher. 
 
-### I'm passionate building software and helping others
+### I'm passionate about building software and helping others
 
 - 🧩 I’m currently working in TypeScript
 - 📫 How to reach me: [Email][email]
 - 😄 Pronouns: he, him
 
-[email]: mailto:akinghill@gmail.com
+[email]: mailto:austinkinghill@gmail.com
