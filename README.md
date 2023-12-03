@@ -1,13 +1,5 @@
-### Hi! I'm Austin Hill
+# Hi I'm Austin.
 
-<img src="https://github.com/akinghill/akinghill/blob/main/akinghill_bitmoji.png" height="150">
+I'm a web developer in Tucson Arizona. I'm passionate about building scalable interfaces and design systems to make using software simple and enjoyable.
 
-## I'm a developer, learner, and teacher. 
-
-### I'm passionate about building software and helping others
-
-- 🧩 I’m currently working in TypeScript
-- 📫 How to reach me: [Email][email]
-- 😄 Pronouns: he, him
-
-[email]: mailto:austinkinghill@gmail.com
+If you are interesting in building a future where technology is powerful and stress free, please reach out.
