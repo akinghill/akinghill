@@ -1,4 +1,6 @@
-# Hi I'm Austin.
-I am a frontend software engineer specializing in web development using TypeScript & React.
-            
-I&apos;m passionate about building scalable interfaces and design systems to make using software simple and enjoyable.
+# Hello, World! <img src="https://raw.githubusercontent.com/akinghill/akinghill/main/wave.gif" width="30px" height="30px" />
+
+I'm Austin Hill, a frontend software engineer specializing in web development using TypeScript & React. I'm passionate about creating scalable user interfaces that are a joy to use.
+
+- 🌱 I’m currently studying design systems to help businesses scale their products.
+- 🎓 B.S. Computer Science and M.B.A. IT Management at Western Governors Univerity, Salt Lake City, UT
