@@ -1,7 +1,3 @@
-![👋 Hi, my name is Austin Hill](https://www.codecademy.com/resources/blog/wp-content/uploads/2022/12/What-Is-Pair-Programming--1.png)
-
-![Profile views](https://komarev.com/ghpvc/?username=akinghill&label=Profile%20views&color=0e75b6&style=flat)
-
 <div id="toc">
   <ul align="left" style="list-style: none">
     <summary>
@@ -11,6 +7,8 @@
     </summary>
   </ul>
 </div>
+
+![Profile views](https://komarev.com/ghpvc/?username=akinghill&label=Profile%20views&color=0e75b6&style=flat)
 
 **<h3 align="left">Connect with me:</h3>** 
 <p align="left"><a href="https://github.com/akinghill" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" height="28" style="margin-right: 4px"></a> <a href="https://www.linkedin.com/in/austin-king-hill" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="28" style="margin-right: 4px"></a></p>
