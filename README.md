@@ -2,13 +2,17 @@
   <ul align="left" style="list-style: none">
     <summary>
       <h1>
-        👋 Hi, my name is Austin Hill
+        👋 Hi, I'm Austin
       </h1>
     </summary>
   </ul>
 </div>
 
-**<h3 align="left">I’m a software engineer who loves building tools that make life easier and more enjoyable for users. I focus on clear communication and collaboration, making sure design and development come together to create something people love to use.</h3>**
+<h3 align="left">I'm a software developer who is passionate about leading technical teams to deliver solutions that make life easier and more fun.</h3>
+<h3>
+If you're interested in building a technical tools or using technology to improve the world please reach out.😊
+</h3>
+<p align="left"><a href="https://github.com/akinghill" target="_blank"><img src="https://img.shields.io/badge/GitHub-21232A?style=for-the-badge&logo=github&logoColor=white" height="28" style="margin-right: 4px"></a> <a href="https://www.linkedin.com/in/austin-king-hill" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-21232A?style=for-the-badge&logo=linkedin&logoColor=white" height="28" style="margin-right: 4px"></a></p>
 
 **<h3 align="left">GitHub Stats</h3>**
 
@@ -37,9 +41,5 @@
 <img src="https://img.shields.io/badge/Figma-21232A?logo=figma&logoColor=white" height="28" alt="Figma" style="margin-right: 4px">
 <img src="https://img.shields.io/badge/Postman-21232A?logo=postman&logoColor=white" height="28" alt="Postman" style="margin-right: 4px">
 <img src="https://img.shields.io/badge/Visual_Studio_Code-21232A?logo=visual-studio-code&logoColor=white" height="28" alt="Visual Studio Code" style="margin-right: 4px"></div>
-
-**<h3 align="left">Connect with me:</h3>**
-
-<p align="left"><a href="https://github.com/akinghill" target="_blank"><img src="https://img.shields.io/badge/GitHub-21232A?style=for-the-badge&logo=github&logoColor=white" height="28" style="margin-right: 4px"></a> <a href="https://www.linkedin.com/in/austin-king-hill" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-21232A?style=for-the-badge&logo=linkedin&logoColor=white" height="28" style="margin-right: 4px"></a></p>
 
 ![Profile views](https://komarev.com/ghpvc/?username=akinghill&label=Profile%20views&color=61DAFB&style=flat)
