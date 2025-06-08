@@ -10,7 +10,7 @@
 
 <h3 align="left">I'm a software developer who is passionate about leading technical teams to deliver solutions that make life easier and more fun.</h3>
 <h3>
-If you're interested in building a technical tools or using technology to improve the world please reach out.😊
+If you're interested in building technical tools or using technology to improve the world please reach out.😊
 </h3>
 <p align="left"><a href="https://github.com/akinghill" target="_blank"><img src="https://img.shields.io/badge/GitHub-21232A?style=for-the-badge&logo=github&logoColor=white" height="28" style="margin-right: 4px"></a> <a href="https://www.linkedin.com/in/austin-king-hill" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-21232A?style=for-the-badge&logo=linkedin&logoColor=white" height="28" style="margin-right: 4px"></a></p>
 
