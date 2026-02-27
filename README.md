@@ -16,7 +16,7 @@ I specialize in scalable front-end systems, design system architecture, and plat
 <p align="left"><a href="https://github.com/akinghill" target="_blank"><img src="https://img.shields.io/badge/GitHub-21232A?style=for-the-badge&logo=github&logoColor=white" height="28" style="margin-right: 4px"></a> <a href="https://www.linkedin.com/in/austin-king-hill" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-21232A?style=for-the-badge&logo=linkedin&logoColor=white" height="28" style="margin-right: 4px"></a></p>
 
 ---
-
+<!-- 
 **<h3 align="left">Tech Stack</h3>**
 
 <h4>Front-End</h4>
@@ -41,7 +41,7 @@ I specialize in scalable front-end systems, design system architecture, and plat
 <img src="https://img.shields.io/badge/Postman-21232A?logo=postman&logoColor=white" height="28" alt="Postman" style="margin-right: 4px">
 <img src="https://img.shields.io/badge/Visual_Studio_Code-21232A?logo=visual-studio-code&logoColor=white" height="28" alt="Visual Studio Code" style="margin-right: 4px">
 
----
+--- -->
 
 
 **<h3 align="left">GitHub Stats</h3>**
